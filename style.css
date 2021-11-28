@@ -78,7 +78,7 @@ input,button{
   margin: 0 auto 0;
 }
 
-.task-row-wrapper {
+.main__task-row {
   display: flex;
 }
 
